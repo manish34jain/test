@@ -3,7 +3,7 @@
 /**
  * @file
  * The PHP page that handles updating the Drupal installation.
- *
+ * this is 2 commit
  * All Drupal code is released under the GNU General Public License.
  * See COPYRIGHT.txt and LICENSE.txt files in the "core" directory.
  */
